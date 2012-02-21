@@ -4,5 +4,8 @@
   "date": "Fri Aug 26 2011 03:08:50 GMT-0700 (PST)",
   "tags": ["core", "npm"],
   "authors": ["Charlie McConnell"],
-  "difficulty": 1
+  "difficulty": 4,
+  "categories": [
+    "Modules and NPM"
+  ]
 }
